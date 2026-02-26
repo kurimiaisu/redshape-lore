@@ -13,14 +13,14 @@ export default defineConfig({
       {
         text: 'Основы',
         items: [
-          { text: 'Введение', link: '/redshape/basics/intro' }
+          { text: 'Введение', link: '/basics/intro' }
         ]
       },
 
       {
         text: 'Персонажи',
         items: [
-          { text: 'Вайтфин нового поколения', link: '/redshape/characters/whitefin' }
+          { text: 'Вайтфин нового поколения', link: '/characters/whitefin' }
         ]
       }
     ],
